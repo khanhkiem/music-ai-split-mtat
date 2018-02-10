@@ -6,7 +6,7 @@ string
 vocal
 electronic
 drum
-no singer
+no_singer
 rock
 fast
 male
@@ -28,7 +28,7 @@ soft
 sitar
 solo
 choir
-new age
+new_age
 dance
 strange
 harp
@@ -39,7 +39,7 @@ country
 eastern
 bass
 modern
-no piano
+no_piano
 hard
 chant
 baroque
@@ -47,4 +47,4 @@ orchestra
 foreign
 trance
 folk
-no beat
+no_beat
