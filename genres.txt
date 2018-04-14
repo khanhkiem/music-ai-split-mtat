@@ -1,0 +1,19 @@
+classical
+techno
+electronic
+rock
+ambient
+indian
+opera
+pop
+new age
+dance
+metal
+jazz
+country
+hard
+chant
+baroque
+orchestra
+trance
+folk
